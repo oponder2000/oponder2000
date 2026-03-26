@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/oliver-ponder/">Oliver Ponder</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm an entry-level cybersecurity professional with a B.S. in Computer Science and certifications in Security+, CySA+, and Pentest+. I'm passionate about tackling real-world security challenges — from investigating phishing campaigns and analyzing malicious network traffic to diving into malware analysis. My projects reflect hands-on work across threat detection and security operations, areas I'm actively growing in as I pursue a SOC analyst role. Feel free to explore my work and see what I've been building!
 
 
 ## ⚠️ Vulnerability Management Projects

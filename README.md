@@ -5,7 +5,7 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/oponder2000/vulnerability-management-program)**
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)** -->
 
 ## 🚨 Threat Hunting and Security Operations

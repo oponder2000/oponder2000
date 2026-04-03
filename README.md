@@ -10,7 +10,9 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 
 ## 🚨 Threat Hunting and Security Operations
 
-<!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)** -->
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/oponder2000/threat-hunting-scenario-tor)**
+
+<!-- - **[](https://github.com/)** -->
 
 <hr/>
 

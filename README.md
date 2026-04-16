@@ -7,7 +7,6 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 
 - **[Vulnerability Management Program Implementation](https://github.com/oponder2000/vulnerability-management-program)**
 - **[STIG Remediations WIP](https://github.com/oponder2000/DISA-STIGS)**
-- 
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)** -->
 
 ## 🚨 Threat Hunting and Security Operations

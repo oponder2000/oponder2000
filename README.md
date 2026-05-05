@@ -13,6 +13,7 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/oponder2000/threat-hunting-scenario-tor)**
 - **[Simulated Threat Hunt (Emberforge)](https://github.com/oponder2000/EMBERFORGE-SOURCE-LEAK-Active-Directory-Attack-Investigation)**
+- **[Simulated Threat Hunt (Scattered Invoice)](https://github.com/oponder2000/SCATTERED-INVOICE-BEC-Investigation/tree/main)** WIP
 
 <!-- - **[](https://github.com/)** -->
 

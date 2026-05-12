@@ -15,7 +15,7 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 - **[Simulated Threat Hunt (Emberforge)](https://github.com/oponder2000/EMBERFORGE-SOURCE-LEAK-Active-Directory-Attack-Investigation)**
 - **[Simulated Threat Hunt (Scattered Invoice)](https://github.com/oponder2000/SCATTERED-INVOICE-BEC-Investigation/tree/main)**
 - **[Simulated Threat Hunt (Silent Corridor)](https://github.com/oponder2000/SILENT-CORRIDOR-Proactive-Threat-Hunt)**
-- 
+
 <!-- - **[](https://github.com/)** -->
 
 <hr/>

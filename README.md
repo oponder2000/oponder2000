@@ -18,6 +18,12 @@ I'm an entry-level cybersecurity professional with a B.S. in Computer Science an
 
 <!-- - **[](https://github.com/)** -->
 
+
+## 📡 Agentic AI Engineer Projects
+
+- **[Agentic AI Security Mentor](https://github.com/oponder2000/Agentic-AI-Security-Mentor)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me

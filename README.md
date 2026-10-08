@@ -27,7 +27,7 @@ I'm confident that combining a solid compliance foundation with hands-on experie
 
 - **[Agentic AI Security Mentor](https://github.com/oponder2000/Agentic-AI-Security-Mentor)**
 - **[FPS Secure Web App](https://github.com/oponder2000/FPS_Secure_Web_App)**
-
+- **[Phishing Email Analyzer](https://github.com/oponder2000/Phishing-Analyzer)**
 
 <hr/>
 
